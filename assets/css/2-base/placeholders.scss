@@ -1,0 +1,44 @@
+%small-bold{
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+%medium-thin{
+	font-size: 18px;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+%medium-bold{
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+%title-thin{
+	font-size:25px;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+%title-bold{
+	font-family: Montserrat;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+%title-italic{
+	font-family: 'Playfair Display';
+	font-style: italic;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+%bg-img{
+	background-repeat: no-repeat, no-repeat;
+	background-position: 30px 50px, 50% 50%;
+	background-size: 50px 50px cover;
+}
